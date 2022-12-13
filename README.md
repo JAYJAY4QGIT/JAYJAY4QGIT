@@ -1,7 +1,7 @@
 # Welcome stranger
 
 ## My name is Nopanan Wuttisakulkiat 💜
-### nickname Jay 💜
+### nickname : Jay 💜
 ### Student of Rangsit Univercity👨‍🎓
 - 🌱 I’m currently learning Front-End , Back-End , DevOp&more 💜
 
